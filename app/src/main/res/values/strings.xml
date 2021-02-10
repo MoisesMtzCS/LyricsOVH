@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LyricsOVH</string>
+    <string name="buscar">Buscar</string>
+    <string name="cancion">Cancion</string>
+</resources>
